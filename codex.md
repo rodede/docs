@@ -58,3 +58,15 @@ codex --image img1.png,img2.jpg "Summarize these diagrams"
 ```
 codex -f ARCHITECTURE.md -f CONVENTIONS.md "Add retry logic"
 ```
+or
+```
+codex -f CODEX_CONTEXT.md 
+```
+where
+```
+This repository follows rules in:
+- BUSINESS.md
+- ARCHITECTURE.md
+- RULES.md
+- CONVENTIONS.md
+```
