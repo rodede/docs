@@ -53,3 +53,8 @@ codex exec resume --last "Fix the race conditions you found"
 codex exec resume 7f9f9a2e-1b3c-4c7a-9b0e-.... "Implement the plan"
 codex --image img1.png,img2.jpg "Summarize these diagrams"
 ```
+
+### Explicit context
+```
+codex -f ARCHITECTURE.md -f CONVENTIONS.md "Add retry logic"
+```
