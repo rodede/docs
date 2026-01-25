@@ -1,4 +1,4 @@
 # docs
 
-- [CV](CVDanDinicescu.md)
-- [Utils](utils.md)
+- [CV Dan Dinicescu](CVDanDinicescu.md)
+- [To remember](utils.md)
