@@ -1,8 +1,8 @@
 # docs
 Various docs &  tools
 
+- [CV](CVDanDinicescu.md)
 - [Codex](codex.md)
-
 
 ## Spring init project
 ```
