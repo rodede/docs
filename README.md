@@ -12,9 +12,9 @@ Various docs &  tools
     --boot-version=4.0.1 \
     --java-version=25 \
     --groupId=ro.dede \
-    --artifactId=mpbridge \
-    --name="MPBridge scor" \
-    --package-name=ro.dede.mpbridge \
+    --artifactId=XXXXX \
+    --name="YYYYYY " \
+    --package-name=ro.dede.zzzzz \
     --dependencies=vaadin \
-    mpbridge
+    AAAAAA
 ```
