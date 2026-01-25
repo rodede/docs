@@ -125,7 +125,7 @@ Strong track record of modernizing legacy systems, improving platform scalabilit
 
 ---
 
-### Software Developer - Technical Lead - roject Manager - Product Director  
+### Software Developer - Technical Lead - Project Manager - Product Director  
 **Toptech / Viveo / Temenos** — Bucharest, Romania  
 *April 1998 – January 2011*
 
