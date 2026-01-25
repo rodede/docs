@@ -98,10 +98,12 @@ Strong track record of modernizing legacy systems, improving platform scalabilit
 **Electronic Arts (EA)** — Bucharest, Romania  
 *December 2011 – July 2015*
 
-- Developed and managed enterprise Java applications.
-- Coordinated application lifecycle and release processes.
-- Supported large-scale gaming backend systems.
-- Worked closely with QA, operations, and product stakeholders.
+- Led and managed a cross-functional team of approximately 10 engineers delivering enterprise Java applications.
+- Owned end-to-end application lifecycle, including design, development, testing, release, and maintenance.
+- Coordinated release management, deployment planning, and production support activities.
+- Supported and scaled backend systems serving large gaming platforms.
+- Acted as primary technical liaison between engineering, QA, operations, and product teams.
+- Mentored team members and supported their technical and professional growth.
 
 ---
 
@@ -123,39 +125,22 @@ Strong track record of modernizing legacy systems, improving platform scalabilit
 
 ---
 
-### Product Manager  
-**Viveo / Temenos** — Bucharest, Romania  
-*September 2007 – January 2011*
+### Software Developer - Technical Lead - roject Manager - Product Director  
+**Toptech / Viveo / Temenos** — Bucharest, Romania  
+*April 1998 – January 2011*
 
-- Managed software production and delivery processes.
-- Coordinated project managers and technical teams.
-- Provided technical guidance and quality assurance.
-- Defined delivery timelines and monitored project progress.
-
----
-
-### Project Manager  
-**Toptech** — Bucharest, Romania  
-*June 2002 – September 2007*
-
-- Planned and coordinated software development projects.
-- Managed delivery schedules, risks, and stakeholder communication.
+- Led and coordinated teams of approximately 30 engineers and project managers across multiple software projects.
+- Managed end-to-end software production and delivery processes.
+- Provided technical leadership, guidance, and quality assurance for all active projects.
+- Delegated responsibilities, defined milestones, and monitored project execution.
+- Recommended corrective actions and process improvements throughout project lifecycles.
+- Ensured technical excellence, delivery predictability, and alignment with business objectives.
+- Served as a key liaison between executive management, engineering, and client stakeholders.
 
 ---
-
-### Technical Lead  
-**Toptech** — Bucharest, Romania  
-*April 2000 – June 2002*
 
 - Led development teams on banking and enterprise systems.
 - Defined technical direction and coding standards.
-
----
-
-### Software Developer  
-**Toptech** — Bucharest, Romania  
-*April 1998 – April 2000*
-
 - Developed and maintained banking software applications.
 - Worked on COBOL and early enterprise systems.
 
