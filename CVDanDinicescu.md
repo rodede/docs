@@ -9,7 +9,6 @@ Bucharest, Romania (Open to Remote / Relocation)
 | Email | [rodede@gmail.com](mailto:rodede@gmail.com) |
 | Phone | [+40 723 164 916](tel:+40723164916) |
 | GitHub | [github.com/rodede](https://github.com/rodede) |
-| LinkedIn | [www.linkedin.com/in/dan-dinicescu-4456b7263/](https://www.linkedin.com/in/dan-dinicescu-4456b7263/) |
 
 ## Summary
 
