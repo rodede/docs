@@ -1,14 +1,15 @@
 # Dan Dinicescu
 
-**Principal Software Engineer / Systems Architect**
-
-Bucharest, Romania (Open to Remote / Relocation)
-
-|||
+| | | |
 |:---|:---|
 | Email | [rodede@gmail.com](mailto:rodede@gmail.com) |
 | Phone | [+40 723 164 916](tel:+40723164916) |
 | GitHub | [github.com/rodede](https://github.com/rodede) |
+
+
+**Principal Software Engineer / Systems Architect**
+
+Bucharest, Romania (Open to Remote / Relocation)
 
 ## Summary
 
@@ -85,6 +86,8 @@ Strong background in event-driven architectures, real-time streaming systems, an
 - Provided technical leadership, guidance, and quality assurance across active projects.
 - Defined milestones, delegated responsibilities, and monitored project execution.
 - Acted as liaison between executive management, engineering, and client stakeholders.
+
+---
 
 ## Technical Skills
 
