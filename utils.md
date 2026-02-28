@@ -40,17 +40,3 @@ model="gpt-5.2"
 - /review - review any changes and find issues
 - codex -m gpt-5.2-codex
 ```
-
-
-## Tools
-- `brew install pandoc`  convert a .md file to a clean PDF
-- `brew install --cask mactex-no-gui` LaTeX engine
-```
-pandoc CVDanDinicescu.md -o CVDanDinicescu.pdf \
-  --pdf-engine=xelatex \
-  -V mainfont="Arial" \
-  -V geometry:margin=1in \
-  -V fontsize=11pt \
-  -V linestretch=1.2 \
-  --metadata colorlinks=true --metadata urlcolor=black --metadata linkcolor=black
-```
