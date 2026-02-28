@@ -93,7 +93,6 @@ Strong background in event-driven architectures, real-time streaming systems, an
 |:---|:---|:---|
 | Languages & Runtime | | |
 | | Primary Language | Java |
-| | Query & Analytics | SQL |
 | | Runtime | JVM Ecosystem |
 | Streaming & Real-Time | | |
 | | AWS Kinesis | Stream ingestion |
