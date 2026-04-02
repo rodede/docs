@@ -15,7 +15,7 @@ brew install --cask mactex-no-gui
 ## Build CV PDF manually
 
 ```bash
-pandoc CVDanDinicescu.md -o CVDanDinicescu.pdf \
+pandoc CVDanDinicescu.md -o /Users/rodede/Desktop/perso/CVDanDinicescu.pdf \
   --pdf-engine=xelatex \
   -V mainfont="Arial" \
   -V geometry:margin=1in \
@@ -30,10 +30,3 @@ pandoc CVDanDinicescu.md -o CVDanDinicescu.pdf \
 
 - Input: `CVDanDinicescu.md` (from this repo)
 - Output: `/Users/rodede/Desktop/perso/CVDanDinicescu.pdf`
-- The hook stops push on build errors (`set -euo pipefail`), so missing `pandoc`/`xelatex` or invalid Markdown/LaTeX blocks the push.
-- `SKIP_CV_HOOK=1 git push` bypasses the PDF build if needed.
-
-How it works with the manual command above:
-
-- The manual command is for local testing and one-off generation in the repo.
-- The hook enforces the same rendering settings automatically before each push and writes the final PDF to the Desktop target path.
